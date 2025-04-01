@@ -6,13 +6,13 @@
 ![Bey Hub Banner](https://img.shields.io/badge/BEY%20HUB-Roblox%20Scripts-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)
 
 [![Status](https://img.shields.io/badge/status-ativo-success.svg)](https://github.com/username/bey-hub)
-[![GitHub Stars](https://img.shields.io/github/stars/username/bey-hub?style=social)](https://github.com/username/bey-hub/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/username/bey-hub?style=social)](https://github.com/username/bey-hub/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/username/bey-hub?style=social)](https://github.com/zBeyond5/Bey-Hub/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/username/bey-hub?style=social)](https://github.com/zBeyond5/Bey-Hub/network/members)
 
 </div>
 
 <p align="center">
-  <sub>Desenvolvido com ❤️ para a comunidade brasileira de Roblox</sub>
+  <sub>Desenvolvido com ❤️ para a comunidade de Roblox</sub>
 </p>
 
 <div align="center">
@@ -40,7 +40,7 @@
 
 ## 📥 Instalação
 
-1. Baixe um executor confiável para Roblox (recomendamos [Nome do Executor])
+1. Baixe um executor confiável para Roblox (recomendamos JJSploit)
 2. Clone este repositório ou baixe o arquivo ZIP
    ```bash
    git clone https://github.com/seu-usuario/bey-hub.git
