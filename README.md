@@ -5,7 +5,7 @@
   
 ![Bey Hub Banner](https://img.shields.io/badge/BEY%20HUB-Roblox%20Scripts-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)
 
-[![Status](https://img.shields.io/badge/status-ativo-success.svg)](https://github.com/zBeyond5/Bey-ub)
+[![Status](https://img.shields.io/badge/status-ativo-success.svg)](https://github.com/zBeyond5/Bey-Hub)
 </div>
 
 <p align="center">
@@ -45,7 +45,7 @@
 1. Baixe um executor confiável para Roblox (recomendamos JJSploit)
 2. Clone este repositório ou baixe o arquivo ZIP
    ```bash
-   git clone https://github.com/seu-usuario/bey-hub.git
+   git clone https://github.com/zBeyond5/bey-hub.git
    ```
 3. Extraia os arquivos para uma pasta de sua preferência
 4. Inicie o Roblox e abra o jogo desejado
@@ -56,14 +56,14 @@
 ### Pixel Slayer AutoFarm
 ```lua
 -- Carregue o script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/seu-usuario/bey-hub/main/btupdhub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zBeyond5/bey-hub/main/btupdhub.lua"))()
 
 ```
 
 ### Captação de Movimento
 ```lua
 -- Carregue o script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/seu-usuario/bey-hub/main/keycapc.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zBeyond5/bey-hub/main/keycapc.lua"))()
 
 ```
 
