@@ -4,11 +4,7 @@
 <div align="center">
   
 ![Bey Hub Banner](https://img.shields.io/badge/BEY%20HUB-Roblox%20Scripts-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)
-
-[![Status](https://img.shields.io/badge/status-ativo-success.svg)](https://github.com/username/bey-hub)
-[![GitHub Stars](https://img.shields.io/github/stars/username/bey-hub?style=social)](https://github.com/zBeyond5/Bey-Hub/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/username/bey-hub?style=social)](https://github.com/zBeyond5/Bey-Hub/network/members)
-
+[![Status](https://img.shields.io/badge/status-ativo-success.svg)](https://github.com/zBeyond5/Bey-ub)
 </div>
 
 <p align="center">
@@ -17,6 +13,11 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/⭐%20Star%20para%20receber%20atualizações!-yellow?style=for-the-badge" alt="Star to receive updates">
+</div>
+
+<div align="center">
+  
+[![GitHub stars](https://img.shields.io/github/stars/zBeyond5?style=social)](https://github.com/zBeyond5/zBeyond5/stargazers)
 </div>
 
 ## 📋 Conteúdo
