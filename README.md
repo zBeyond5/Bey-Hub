@@ -22,10 +22,8 @@
 ## 📋 Conteúdo
 
 - [🌟 Introdução](#-introdução)
-- [✨ Funcionalidades](#-funcionalidades)
 - [📥 Instalação](#-instalação)
 - [🎮 Como Usar](#-como-usar)
-- [🎥 Demonstração](#-demonstração)
 - [📝 Changelog](#-changelog)
 - [❓ FAQ](#-faq)
 - [⚠️ Aviso Legal](#️-aviso-legal)
@@ -35,20 +33,6 @@
 **Bey Hub** é uma suite premium de scripts para Roblox desenvolvida para proporcionar uma experiência de jogo aprimorada. Nossos scripts são cuidadosamente otimizados para evitar detecção e oferecer o melhor desempenho possível.
 
 > 💡 **Nota:** Bey Hub está constantemente evoluindo para se adaptar às atualizações do Roblox e aprimorar a experiência do usuário.
-
-## ✨ Funcionalidades
-
-### 🔥 Pixel Slayer AutoFarm
-- **Farming Automático** - Coleta recursos, completa tarefas e sobe de nível sem esforço
-- **Detecção Inteligente** - Sistema avançado para evitar padrões de bot
-- **Customizável** - Configure velocidade, áreas de farm e intervalos
-- **Anti-Kick** - Mecanismos para evitar desconexões durante longos períodos de farm
-
-### 👁️ Captação de Movimento
-- **ESP Avançado** - Veja jogadores através das paredes com informações detalhadas
-- **Rastreamento de Movimento** - Acompanhe a trajetória de outros jogadores
-- **Alerta de Proximidade** - Seja notificado quando jogadores se aproximarem
-- **Previsão de Movimento** - Algoritmo que prevê a próxima posição do alvo
 
 <div align="center">
   <img src="https://img.shields.io/badge/🔄%20Atualizado%20Regularmente-blue?style=for-the-badge" alt="Atualizado Regularmente">
