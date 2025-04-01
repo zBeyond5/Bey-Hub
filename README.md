@@ -4,6 +4,7 @@
 <div align="center">
   
 ![Bey Hub Banner](https://img.shields.io/badge/BEY%20HUB-Roblox%20Scripts-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)
+
 [![Status](https://img.shields.io/badge/status-ativo-success.svg)](https://github.com/zBeyond5/Bey-ub)
 </div>
 
